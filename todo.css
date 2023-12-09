@@ -1,0 +1,46 @@
+.myclass{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid black;
+    padding: 5px;
+    gap: 10px;
+    border-radius: 15px;
+}
+#input{
+    display: flex;
+   align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 100px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 400;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+#btn{
+    background-color: rgb(153, 241, 22);
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+   
+}
+.del{
+
+    padding: 8px;
+    border-radius: 10px;
+    background-color: red;
+    color: black;
+}
+.edit{
+    padding: 8px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
