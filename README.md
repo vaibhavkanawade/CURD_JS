@@ -18,7 +18,7 @@ CSS
 JavaScript
 
 Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/vaibhavkanawade/CURD_JS.git
 Navigate to the project directory: cd todo-list
 Open index.html in your preferred web browser.
 
